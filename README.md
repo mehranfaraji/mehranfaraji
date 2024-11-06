@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a **Junior Data Scientist** with a strong foundation in **Data Analysis**, **Machine Learning Theory**, and **Machine Learning Engineering**. Currently, I'm pursuing a Master’s in Data Science at the University of Padova, where I refine my expertise in AI and data-driven methodologies.
 
-My passion lies in transforming complex data into actionable insights and building scalable, robust solutions. I have hands-on experience with cloud infrastructures, enabling me to efficiently deploy data and machine learning solutions.
+My passion is developing ML based solutions on a wide range of problems. I have hands-on experience with cloud infrastructures enabling me to deploy my solutions.
 
 Throughout my journey, I have focused on three key areas:
 
